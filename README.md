@@ -1,1 +1,1 @@
-# cga-internship-projects
+# CGA Internship Portfolio Projects
