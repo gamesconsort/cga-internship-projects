@@ -6,5 +6,8 @@ You have been approached by the sales manager of the largest supermarket in the 
 
 ***Check the project specification doc to find details of the objectives for this project***
 
+To collaborate inrteractively with your team members, launch Jupyter server on binder here:<br>
+https://github.com/gamesconsort/games-jupyter-hub
+
 ### SUBMISSION
 This is a **team-based project** and must be submitted as a team. Deliverables expected include team solution in Jupyter Notebook or Google Colab, and written report (and/or video presentation) detailing steps and significance of your work. A team repo should be created on GitHub where these can be accessed.  Check more details in the project specification doc. Deadline for submission is **Friday, May 13, 2022**.
